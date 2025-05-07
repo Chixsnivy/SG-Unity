@@ -156,9 +156,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 7.5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 1130718748}
   - {fileID: 768305452}
@@ -283,9 +283,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 10
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 1084768628}
   - {fileID: 1126723646}
@@ -410,9 +410,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 7.5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 2085466542}
   - {fileID: 683158757}
@@ -642,9 +642,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 2.5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 654252390}
   - {fileID: 266000150}
@@ -769,9 +769,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 2.5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 1351470873}
   - {fileID: 326535855}
@@ -896,9 +896,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 639711658}
   - {fileID: 970197941}
@@ -1023,9 +1023,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 806229032}
   - {fileID: 654252390}
@@ -1150,9 +1150,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 2.5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 1235087134}
   - {fileID: 216590098}
@@ -1382,9 +1382,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 10
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 1281447741}
   - {fileID: 2085466542}
@@ -1614,9 +1614,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 2.5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 494311910}
   - {fileID: 1383736355}
@@ -1741,9 +1741,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 10
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 758644945}
   - {fileID: 842353654}
@@ -1868,9 +1868,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 10
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 169141151}
   - {fileID: 124814742}
@@ -1995,9 +1995,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 730327393}
   - {fileID: 832896517}
@@ -2122,9 +2122,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 2.5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 909075234}
   - {fileID: 950367135}
@@ -2249,9 +2249,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 1300232566}
   - {fileID: 249309737}
@@ -2376,9 +2376,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 2.5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 1233984915}
   - {fileID: 958843480}
@@ -2503,9 +2503,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 7.5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 124814742}
   - {fileID: 1300232566}
@@ -2735,9 +2735,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 7.5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 286818606}
   - {fileID: 132238656}
@@ -2862,9 +2862,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 34142550}
   - {fileID: 1235087134}
@@ -3112,9 +3112,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 7.5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 1746239788}
   - {fileID: 779059618}
@@ -3239,9 +3239,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 2.5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 970197941}
   - {fileID: 456169005}
@@ -3366,9 +3366,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 2.5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 258936310}
   - {fileID: 201499122}
@@ -3493,9 +3493,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 7.5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 1518900029}
   - {fileID: 1576233466}
@@ -3725,9 +3725,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 7.5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 379683863}
   - {fileID: 617163576}
@@ -3852,9 +3852,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 7.5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 333842521}
   - {fileID: 1853912846}
@@ -3979,9 +3979,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 7.5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 1137465294}
   - {fileID: 34142550}
@@ -4106,9 +4106,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 1576233466}
   - {fileID: 258936310}
@@ -4233,9 +4233,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 10
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 635423319}
   - {fileID: 1518900029}
@@ -4452,9 +4452,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 683158757}
   - {fileID: 1056618985}
@@ -4673,9 +4673,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 2.5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 1056618985}
   - {fileID: 540205503}
@@ -4800,9 +4800,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 2.5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 392626736}
   - {fileID: 1612567338}
@@ -4927,9 +4927,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 132238656}
   - {fileID: 909075234}
@@ -5159,9 +5159,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 779059618}
   - {fileID: 1233984915}
@@ -5286,9 +5286,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 10
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected: []
 --- !u!135 &1073756588
 SphereCollider:
@@ -5409,9 +5409,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 10
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 272765253}
   - {fileID: 1137465294}
@@ -5641,9 +5641,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 10
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 1877355048}
   - {fileID: 286818606}
@@ -5768,9 +5768,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 10
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 1275762015}
   - {fileID: 379683863}
@@ -5895,9 +5895,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 10
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 308494748}
   - {fileID: 1130718748}
@@ -6022,9 +6022,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 1853912846}
   - {fileID: 392626736}
@@ -6149,9 +6149,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 768305452}
   - {fileID: 1351470873}
@@ -6591,9 +6591,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 7.5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 1126723646}
   - {fileID: 639711658}
@@ -6718,9 +6718,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 617163576}
   - {fileID: 494311910}
@@ -6845,9 +6845,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 2.5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 249309737}
   - {fileID: 703944841}
@@ -7182,9 +7182,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 10
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 1030160585}
   - {fileID: 1074996756}
@@ -7309,9 +7309,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 7.5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 1074996756}
   - {fileID: 806229032}
@@ -7436,9 +7436,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 2.5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 832896517}
   - {fileID: 721842479}
@@ -7669,9 +7669,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 10
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 1243393975}
   - {fileID: 333842521}
@@ -7796,9 +7796,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 7.5
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 842353654}
   - {fileID: 730327393}
@@ -8028,9 +8028,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m: 1
-  K: 1
-  D: 0.1
-  gravity: {x: 0, y: -9.81, z: 0}
+  K: 10
+  D: 1
+  gravity: {x: 0, y: 0, z: 0}
   particlesConnected:
   - {fileID: 1410587826}
   - {fileID: 1746239788}
