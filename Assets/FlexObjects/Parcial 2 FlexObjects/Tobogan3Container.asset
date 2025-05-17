@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3f2b44126ff4eb34e941cfec7bfae3a0, type: 3}
-  m_Name: BanderaContainer
+  m_Name: Tobogan3Container
   m_EditorClassIdentifier: 
   m_simpleMode: 1
   m_simpleMaxParticles: 10000
@@ -22,9 +22,9 @@ MonoBehaviour:
   m_simpleParticleRestitution: 0
   m_simpleParticleAdhesion: 0
   m_simpleParticleDamping: 0
-  m_simpleClothWind: {x: 1.29, y: 0.42, z: 2}
+  m_simpleClothWind: {x: 0, y: 0, z: 0}
   m_simpleClothDrag: 0
-  m_simpleClothLift: 1.83
+  m_simpleClothLift: 0
   m_simpleFluidCohesion: 0.025
   m_simpleFluidTension: 0.01
   m_simpleFluidViscosity: 0
@@ -34,17 +34,17 @@ MonoBehaviour:
   m_simpleFluidMaxScale: 1
   m_maxParticles: 10000
   m_maxDiffuse: 0
-  m_maxNeighbors: 200
+  m_maxNeighbors: 100
   m_maxContacts: 6
   m_recreateSolver: 0
-  m_substepCount: 2
+  m_substepCount: 3
   m_iterationCount: 5
   m_gravity: {x: 0, y: -9.81, z: 0}
-  m_radius: 0.15
+  m_radius: 0.2
   m_solidRest: 0.1
-  m_fluidRest: 0.095
-  m_staticFriction: 0.1
-  m_dynamicFriction: 0.1
+  m_fluidRest: 0.1
+  m_staticFriction: 0.3
+  m_dynamicFriction: 0.2
   m_particleFriction: 0.1
   m_restitution: 0
   m_adhesion: 0
@@ -54,16 +54,16 @@ MonoBehaviour:
   m_shockPropagation: 0
   m_dissipation: 0
   m_damping: 0
-  m_wind: {x: 1.29, y: 0.42, z: 2}
+  m_wind: {x: 0, y: 0, z: 0}
   m_drag: 0
-  m_lift: 1.83
+  m_lift: 0
   m_fluid: 1
   m_cohesion: 0.025
-  m_surfaceTension: 0.01
+  m_surfaceTension: 0
   m_viscosity: 0
   m_vorticityConfinement: 0
   m_anisotropyScale: 2
-  m_anisotropyMin: 0.2
+  m_anisotropyMin: 0.1
   m_anisotropyMax: 1
   m_smoothing: 0
   m_solidPressure: 0
